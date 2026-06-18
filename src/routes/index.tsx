@@ -40,7 +40,7 @@ function LandingPage() {
 
           {/* Call Action Button */}
           <a 
-            href="tel:7065550100" 
+            href="tel:7068360027" 
             className="bg-amber-500 hover:bg-amber-600 text-zinc-950 font-black text-xs tracking-wider uppercase px-4 py-2.5 rounded-md flex items-center gap-2 transition-all active:scale-95 shadow-lg shadow-amber-500/10"
           >
             <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20">
